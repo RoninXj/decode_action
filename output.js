@@ -1,4 +1,4 @@
-//Fri Jun 28 2024 08:55:38 GMT+0000 (Coordinated Universal Time)
+//Fri Jun 28 2024 08:59:25 GMT+0000 (Coordinated Universal Time)
 //Base:https://github.com/echo094/decode-js
 //Modify:https://github.com/smallfawn/decode_action
 NAME = "网易有道词典";
