@@ -1,6 +1,3 @@
-//Tue Jul 09 2024 03:29:32 GMT+0000 (Coordinated Universal Time)
-//Base:https://github.com/echo094/decode-js
-//Modify:https://github.com/smallfawn/decode_action
 (function (_0x2574af, _0x489332) {
   function _0x133071(_0x31af2e, _0x2394d4, _0x2f98f5, _0x50bf91, _0x312d8b) {
     return _0x3653(_0x31af2e - 0x28b, _0x312d8b);
