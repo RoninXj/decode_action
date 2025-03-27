@@ -1,9 +1,3 @@
-'''
-VX公众号 -- 申工社
-抓包 fwdt.shengongshe.org 的 token
-变量填写 export sgs='token1#token2' 多账号使用 # 分隔
-'''
-
 import sys
 vesion = sys.version.split(' ')[0]
 if vesion.split('.')[1] == "10":
